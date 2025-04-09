@@ -42,7 +42,7 @@ I'm a cybersecurity analyst in training with a strong foundation in IT support, 
 
 ## Featured Projects
 
-> *(To be added as you upload them. Here's what you might include soon.)*
+> *(To be added as i upload them. Here's what might be included soon:)*
 
 - `SIEM-Playground` – Microsoft Sentinel lab setup and alerts
 - `CTF-Writeups` – Challenges from TryHackMe / HackTheBox
@@ -58,8 +58,9 @@ I'm a cybersecurity analyst in training with a strong foundation in IT support, 
 - MITx: Introduction to Computer Science and Programming  
 - Google Data Analytics Certification  
 - EISnt: Security in Software Development (Kali Linux), Database Dev (Power BI), Web Dev  
-- (In Progress): Google Cybersecurity, CompTIA Security+, UX Design
-
+- (In Progress): Google Cybersecurity, UX Design
+CompTIA
+CompTIA Security+
 ---
 
 ## Let's Connect
